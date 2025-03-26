@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: auto-go0329-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/auto-go0329-gitops
